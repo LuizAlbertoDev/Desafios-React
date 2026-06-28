@@ -1,9 +1,9 @@
-import MostrarSenha from './Desafios/Desafio_005'
+import Calculadora from './Desafios/Desafio_006'
 
 function App() {
     return (
         <div>
-            <MostrarSenha />
+            <Calculadora />
         </div>
     )
 }
