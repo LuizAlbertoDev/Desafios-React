@@ -1,9 +1,9 @@
-import ListaTarefa from './Desafios/Desafio_004'
+import MostrarSenha from './Desafios/Desafio_005'
 
 function App() {
     return (
         <div>
-            <ListaTarefa />
+            <MostrarSenha />
         </div>
     )
 }
