@@ -1,9 +1,9 @@
-import Calculadora from './Desafios/Desafio_006'
+import FormCadastro from './Desafios/Desafio_007'
 
 function App() {
     return (
         <div>
-            <Calculadora />
+            <FormCadastro />
         </div>
     )
 }
