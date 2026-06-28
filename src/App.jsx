@@ -1,9 +1,9 @@
-import FormCadastro from './Desafios/Desafio_007'
+import Placar from './Desafios/Desafio_008'
 
 function App() {
     return (
         <div>
-            <FormCadastro />
+            <Placar />
         </div>
     )
 }
