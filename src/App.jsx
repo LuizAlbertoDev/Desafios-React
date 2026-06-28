@@ -1,9 +1,9 @@
-import Contador from './Desafios/Desafio_002'
+import Saudacao from './Desafios/Desafio_003'
 
 function App() {
     return (
         <div>
-            <Contador />
+            <Saudacao />
         </div>
     )
 }
