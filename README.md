@@ -1,16 +1,48 @@
-# React + Vite
+# ⚛️ Desafios React
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Repositório de desafios práticos para aprendizado de React, desenvolvidos como parte de uma jornada de transição de carreira para desenvolvimento fullstack.
 
-Currently, two official plugins are available:
+## 🎯 Objetivo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Aprender React do zero através de desafios progressivos — do básico ao avançado — cobrindo os principais conceitos usados no mercado de trabalho.
 
-## React Compiler
+## 🚀 Tecnologias
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-## Expanding the Oxlint configuration
+## 📚 Módulos
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+| Módulo | Conteúdo |
+|--------|----------|
+| Componentes & Props | Criação de componentes, reutilização, passagem de dados |
+| useState | Gerenciamento de estado, re-renderização |
+| useEffect | Efeitos colaterais, ciclo de vida |
+| Consumo de API | fetch + React, loading, tratamento de erro |
+| Roteamento | React Router, navegação entre páginas |
+
+## 🗂️ Estrutura
+
+```
+src/
+└── Desafios/
+    ├── Desafio_001.jsx   # Componentes e props
+    ├── Desafio_002.jsx   # useState
+    └── ...
+```
+
+## ▶️ Como rodar
+
+```bash
+npm install
+npm run dev
+```
+
+Acesse `http://localhost:5173` no navegador.
+
+## 👨‍💻 Autor
+
+**Luiz Alberto** — em transição de carreira para desenvolvimento fullstack
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuizAlbertoDev)
