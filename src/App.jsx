@@ -1,9 +1,9 @@
-import Placar from './Desafios/Desafio_008'
+import Carrinho from './Desafios/Desafio_009'
 
 function App() {
     return (
         <div>
-            <Placar />
+            <Carrinho />
         </div>
     )
 }
