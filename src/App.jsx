@@ -1,9 +1,9 @@
-import FiltroAlunos from './Desafios/Desafio_010'
+import ToggleTema from './Desafios/Desafio_011'
 
 function App() {
     return (
         <div>
-            <FiltroAlunos />
+            <ToggleTema />
         </div>
     )
 }
