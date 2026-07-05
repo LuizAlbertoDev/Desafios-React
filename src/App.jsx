@@ -1,12 +1,10 @@
-import AtualizadorNome from './Desafios/Desafio_012_input_controlado_nome'
+import ContadorMais5 from './Desafios/Desafio_013_contador_mais5_menos5'
 
 function App() {
     return (
         <div>
-            <AtualizadorNome />
+            <ContadorMais5 />
         </div>
     )
 }
-
-
 export default App

@@ -8,16 +8,15 @@ function Contador() {
             setNumero(numero-1)
         }
     }
-
     return (
         <div>
             <p>Contador: {numero}</p>
             <button onClick={diminuir}>
-                Diminuir
+                Somar
             </button>
 
             <button onClick={() => setNumero(numero + 1)}>
-                Somar
+                Diminuir
             </button>
         </div>
     )
