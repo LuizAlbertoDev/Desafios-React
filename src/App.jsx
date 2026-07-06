@@ -1,9 +1,9 @@
-import ContadorDobrado from './Desafios/Desafio_014_contador_dobrar'
+import Somar3x from './Desafios/Desafio_015_contador_funcional_3x'
 
 function App() {
     return (
         <div>
-            <ContadorDobrado />
+            <Somar3x />
         </div>
     )
 }
