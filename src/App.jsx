@@ -1,9 +1,9 @@
-import Somar3x from './Desafios/Desafio_015_contador_funcional_3x'
+import Toggle from './Desafios/Desafio_016_toggle_ativo'
 
 function App() {
     return (
         <div>
-            <Somar3x />
+            <Toggle />
         </div>
     )
 }
