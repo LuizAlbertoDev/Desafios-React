@@ -1,9 +1,9 @@
-import ContadorMais5 from './Desafios/Desafio_013_contador_mais5_menos5'
+import ContadorDobrado from './Desafios/Desafio_014_contador_dobrar'
 
 function App() {
     return (
         <div>
-            <ContadorMais5 />
+            <ContadorDobrado />
         </div>
     )
 }
