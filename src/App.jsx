@@ -1,9 +1,9 @@
-import Toggle from './Desafios/Desafio_016_toggle_ativo'
+import Cadastro from './Desafios/Desafio_017_objeto_nome_idade'
 
 function App() {
     return (
         <div>
-            <Toggle />
+            <Cadastro />
         </div>
     )
 }
