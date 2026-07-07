@@ -1,9 +1,9 @@
-import Cadastro from './Desafios/Desafio_017_objeto_nome_idade'
+import AdicionarAleatorio from './Desafios/Desafio_018_array_numeros_aleatorios'
 
 function App() {
     return (
         <div>
-            <Cadastro />
+            <AdicionarAleatorio />
         </div>
     )
 }
