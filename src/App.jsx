@@ -1,9 +1,9 @@
-import AdicionarAleatorio from './Desafios/Desafio_018_array_numeros_aleatorios'
+import ListaTarefas from './Desafios/Desafio_019_lista_tarefas_remover_ultima'
 
 function App() {
     return (
         <div>
-            <AdicionarAleatorio />
+            <ListaTarefas />
         </div>
     )
 }
