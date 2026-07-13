@@ -1,9 +1,9 @@
-import ListaTarefas from './Desafios/Desafio_019_lista_tarefas_remover_ultima'
+import MostrarOcultar from './Desafios/Desafio_020_toggle_mostrar_ocultar'
 
 function App() {
     return (
         <div>
-            <ListaTarefas />
+            <MostrarOcultar />
         </div>
     )
 }

@@ -18,10 +18,8 @@ function ListaTarefas(){
                 texto:texto
             }
         ])
-
         setTexto("")
     }
-
     return(
         <div>
             <h1>Tarefass</h1>
