@@ -1,43 +1,39 @@
 # Desafios React
 
-Repositório de desafios práticos para aprendizado de React, desenvolvidos como parte de uma jornada de transição de carreira para desenvolvimento fullstack.
-
-## Objetivo
-
-Aprender React do zero através de desafios progressivos — do básico ao avançado — cobrindo os principais conceitos usados no mercado de trabalho.
+Exercícios práticos de React desenvolvidos durante meus estudos de programação. O repositório registra a evolução do aprendizado, não uma aplicação de produção.
 
 ## Tecnologias
 
+- React 19
+- JavaScript (JSX)
+- Vite
+- CSS
 
-## Módulos
+## Conteúdo atual
 
-| Módulo | Conteúdo |
-|--------|----------|
-| Componentes & Props | Criação de componentes, reutilização, passagem de dados |
-| useState | Gerenciamento de estado, re-renderização |
-| useEffect | Efeitos colaterais, ciclo de vida |
-| Consumo de API | fetch + React, loading, tratamento de erro |
-| Roteamento | React Router, navegação entre páginas |
+Os exercícios estão em `src/Desafios/`, numerados de 001 a 020. Incluem componentes, props, manipulação de estado, entradas controladas, contadores, alternância de conteúdo e listas.
 
-## Estrutura
+Os desafios são independentes e podem variar em grau de complexidade. Recursos como roteamento, testes e integração de APIs farão parte de etapas futuras, quando adicionados ao repositório.
 
-```
-src/
-└── Desafios/
-    ├── Desafio_001.jsx   # Componentes e props
-    ├── Desafio_002.jsx   # useState
-    └── ...
-```
+## Executar localmente
 
-## Como rodar
+É necessário ter Node.js e npm.
 
 ```bash
+git clone https://github.com/LuizAlbertoDev/Desafios-React.git
+cd Desafios-React
 npm install
 npm run dev
 ```
 
-Acesse `http://localhost:5173` no navegador.
+Abra o endereço indicado pelo Vite. Para executar o linter:
 
-## Autor
+```bash
+npm run lint
+```
 
-**Luiz Alberto** — em transição de carreira para desenvolvimento fullstack
+## Objetivo
+
+Revisar fundamentos de React e documentar a progressão nos exercícios.
+
+[Perfil no GitHub](https://github.com/LuizAlbertoDev)
